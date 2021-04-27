@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "nodemon": "^1.19.4",
-    "redis": "^2.8.0"
+    "redis": "^3.1.1"
   },
   "scripts": {
     "start": "node index.js",
